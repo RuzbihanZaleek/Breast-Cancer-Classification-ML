@@ -7,4 +7,4 @@ Wisconsin (Diagnostic) dataset.
 
 ## Members
 * Ruzbihan Zaleek (MS26911458)
-* Member 2 Name (ID)
+* Luminda De Silva (MS26903224)
